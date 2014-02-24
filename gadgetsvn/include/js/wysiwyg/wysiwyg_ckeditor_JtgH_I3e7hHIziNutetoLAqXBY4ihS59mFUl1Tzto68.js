@@ -1,0 +1,1 @@
+window.CKEDITOR_BASEPATH = '/Publisher7/docroot/sites/all/libraries/ckeditor/';
